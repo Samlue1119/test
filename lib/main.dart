@@ -101,6 +101,7 @@ class _GeolocatorWidgetState extends State<GeolocatorWidget> {
     );
   }
 
+
   @override
   Widget build(BuildContext context) {
     const sizedBox = SizedBox(
